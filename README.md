@@ -49,5 +49,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn gdown
 
 *   `README.md`: Questo file, con la descrizione del progetto e le istruzioni.
 *   `IA2_Progetto_Piccione_Carradori_Codice.ipynb`: Il notebook Jupyter che contiene tutto il codice, l'analisi e le visualizzazioni.
-*   `IA2_Progetto_Piccione_Carradori_Relazione.pdf`: La relazione scritta dettagliata del progetto.
-*   `IA2_Progetto_Piccione_Carradori_Presentazione.pdf`: Le slide utilizzate per la presentazione orale.
